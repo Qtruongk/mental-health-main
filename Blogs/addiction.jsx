@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import "./addiction.css";
 const Addiction =()=>{
     return(
-        <div className="blog-container">
+        <div className="blog-container-addiction">
             <div className="Back-button">
                 <box-icon name='chevron-left'></box-icon>
                 <Link to="/blog" className="back-link">Back to Blog</Link>

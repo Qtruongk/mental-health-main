@@ -6,7 +6,7 @@
 .Back-button{
     display: flex;
 }
-.blog-container{
+.blog-container-addiction{
     background:fixed;
     background-image: url("../chillplace/src/img/background-blog.png");
     background-size: cover;
