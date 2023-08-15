@@ -4,8 +4,8 @@
     background-image: url("./img/background-blog.png");
     background-size: cover;
     background-repeat:no-repeat;
-   
-    background:fixed;
+    padding: 30px;
+    height: 6300px;
 }
 .blog-title{
     position: relative;
