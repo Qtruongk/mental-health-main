@@ -8,7 +8,7 @@
 }
 .blog-container-addiction{
     background:fixed;
-    background-image: url("../chillplace/src/img/background-blog.png");
+    background-color: #EADEC8;
     background-size: cover;
     background-repeat:no-repeat;
     padding: 30px; /* Để loại bỏ khoảng cách xung quanh nội dung */

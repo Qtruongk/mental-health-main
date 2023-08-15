@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+.blog-container-antisocial{
+    background:fixed;
+    background-color: #EADEC8;
+    background-size: cover;
+    background-repeat:no-repeat;
+    padding: 30px; /* Để loại bỏ khoảng cách xung quanh nội dung */
+    height: 4000px;
+}
+.back-link{
+    text-decoration: dotted;
+    color: #000;
+}
+.Back-button{
+    display: flex;
+}

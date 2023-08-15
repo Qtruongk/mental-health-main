@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre Bodoni:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Bai Jamjuree:wght@400&display=swap");
 .blog-container{
-    background-image: url("./img/background-blog.png");
+    background-color: #EADEC8;
     background-size: cover;
     background-repeat:no-repeat;
     padding: 30px;

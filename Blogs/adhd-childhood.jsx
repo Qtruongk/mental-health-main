@@ -8,19 +8,19 @@ const ADHDChildhood = ()=>{
                 <box-icon name='chevron-left'></box-icon>
                 <Link to="/blog" className="back-link">Back to Blog</Link>
             </div>
-            <div class="title-blog">
-                <p class="conditions-a-z">CONDITIONS A-Z</p>
-                <p class="title-blog-head">
+            <div className="title-blog">
+                <p className="conditions-a-z">CONDITIONS A-Z</p>
+                <p className="title-blog-head">
                     <b>ADHD in Children: Symptoms and Treatment</b>
                 </p>
-                <div className="adhd-para">
+                <div className="define-para">
                     <p><b>ADHD</b> is one of the most common neurodevelopmental disorders of childhood. 
                     It is usually first diagnosed in childhood and often lasts into adulthood. Children 
                     with ADHD may have trouble paying attention, controlling impulsive behaviors (may act without thinking about what the result will be),
                     or be overly active.</p>
                 </div>
                 <div className="table-container">
-                    <div className="table-of-contents">
+                    <div className="table-of-contents-1">
                         <b className="table-of-contents-head">Table of contents</b>
                         <ul className="table-of-contents-list">
                             <li className="table-items">Characteristics of ADHD</li>
