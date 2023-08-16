@@ -18,6 +18,29 @@ import BodyDysmorphicDisorder from '../../Blogs/B/body-dysmorphic-disorder';
 import CaffeineAddiction from '../../Blogs/C/caffeine-addiction';
 import ClinicalPsy from '../../Blogs/C/clinical-psychology';
 import CognitiveBehavioral from '../../Blogs/C/cognitive-behavioral-therpay';
+import DrugAddiction from '../../Blogs/D/drug-addiction';
+import DepressionChildhood from '../../Blogs/D/depression-childhood';
+import DelayedSleepSyndrome from '../../Blogs/D/delayed-sleep-phase-syndrome';
+import EatingDisorder from '../../Blogs/E/eating-disorders';
+import PeerPressure from '../../Blogs/G/genZ-&-peer-pressure';
+import GenderDysphoria from '../../Blogs/G/gender-dysphoria';
+import Griefloss from '../../Blogs/G/grief-loss';
+import Intellectual from '../../Blogs/I/intellactual-disability';
+import Loneliness from '../../Blogs/L/loneliness';
+import MixedPersonality from '../../Blogs/M/mixed-personality-disorder';
+import MoodDisorder from '../../Blogs/M/mood-disorder';
+import NightEating from '../../Blogs/N/night-eating-syndrome';
+import SleepWake from '../../Blogs/N/non-24-hour-sleep-wake-disorder';
+import ObessiveCompulsive from '../../Blogs/O/obessive-compulsive-disorder';
+import OnlineTherapy from '../../Blogs/O/online-therapy';
+import PanicDisorder from '../../Blogs/P/panic-disorder';
+import ParaphilicDisorder from '../../Blogs/P/paraphilic-disorders';
+import QuitSmoking from '../../Blogs/Q/quit-somking';
+import SexAddiction from '../../Blogs/S/sex-addiction';
+import SleepDisorder from '../../Blogs/S/sleep-disorders';
+import ShoppingAddiction from '../../Blogs/S/shopping-addiction';
+import SocialAnxietty from '../../Blogs/S/social-anxiety-disorder';
+import TechnologyAddiction from '../../Blogs/T/technology-addiction';
 function App() {
 
   return (
