@@ -7,10 +7,17 @@ import ProductCard from './ProductCard';
 import PodCast from './PodCast';
 import HomePage from './Homepage';
 import Blog from './Blog';
-import Addiction from '../../Blogs/addiction';
-import ADHDChildhood from '../../Blogs/adhd-childhood';
-import AdjustmentDisorder from '../../Blogs/adjustment-disorder';
-import Antisocial from '../../Blogs/antisocial';
+import Addiction from '../../Blogs/A/addiction';
+import ADHDChildhood from '../../Blogs/A/adhd-childhood';
+import AdjustmentDisorder from '../../Blogs/A/adjustment-disorder';
+import Antisocial from '../../Blogs/A/antisocial';
+import Anxiety from '../../Blogs/A/anxiety';
+import BipolarDisorder from '../../Blogs/B/bipolar-disorder';
+import Bulimia from '../../Blogs/B/bulimia';
+import BodyDysmorphicDisorder from '../../Blogs/B/body-dysmorphic-disorder';
+import CaffeineAddiction from '../../Blogs/C/caffeine-addiction';
+import ClinicalPsy from '../../Blogs/C/clinical-psychology';
+import CognitiveBehavioral from '../../Blogs/C/cognitive-behavioral-therpay';
 function App() {
 
   return (
@@ -28,6 +35,13 @@ function App() {
         <Route path="/blog/adhd-childhood" element={<ADHDChildhood />} />
         <Route path="/blog/adjustment-disorder" element={<AdjustmentDisorder />} />
         <Route path="/blog/antisocial-personality-disorder" element={<Antisocial />} />
+        <Route path="/blog/anxiety" element={<Anxiety />} />
+        <Route path="/blog/bulimia" element={<Bulimia />} />
+        <Route path="/blog/body-dysmorphic-disorder" element={<BodyDysmorphicDisorder />} />
+        <Route path="/blog/bipolar-disorder" element={<BipolarDisorder />} />
+        <Route path="/blog/caffeine-addiction" element={<CaffeineAddiction />} />
+        <Route path="/blog/clinical-psychology" element={<ClinicalPsy />} />
+        <Route path="/blog/cognitive-behavioral-therapy" element={<CognitiveBehavioral />} />
       </Routes>
     </BrowserRouter>
   );
