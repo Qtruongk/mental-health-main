@@ -5,7 +5,7 @@
     background-size: cover;
     background-repeat:no-repeat;
     padding: 30px; /* Để loại bỏ khoảng cách xung quanh nội dung */
-    height: 4100px;
+    height: 5900px;
 }
 .back-link{
     text-decoration: dotted;
@@ -27,7 +27,7 @@
     display: flex;
     padding: 10px;
 }
-.table-of-contents-3{
+.table-of-contents-4{
     border: 1px solid #ccc; /* Định dạng khung */
     padding: 30px; /* Khoảng cách giữa nội dung và khung */
     margin-bottom: 20px; /* Khoảng cách giữa các khung */
@@ -48,4 +48,17 @@
 .desciption-blog{
     justify-content: center;
     align-items: center;
+}
+.anxiety-blog-list{
+    margin-bottom: 30px;
+}
+.recap{
+    border: 1px solid #ccc; /* Định dạng khung */
+    padding: 30px; /* Khoảng cách giữa nội dung và khung */
+    margin-bottom: 20px; /* Khoảng cách giữa các khung */
+    background-color: rgba(217, 217, 217, 0.35);
+    margin-right: 30px;
+}
+.recap-head{
+    color: #65463c;
 }
