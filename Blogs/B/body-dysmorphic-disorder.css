@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
-.blog-container-bipolar-disorder{
+.blog-container-BDD{
     background:fixed;
     background-color: #EADEC8;
     background-size: cover;
     background-repeat:no-repeat;
     padding: 30px; /* Để loại bỏ khoảng cách xung quanh nội dung */
-    height: 5750px;
+    height: 5000px;
 }
 .back-link{
     text-decoration: dotted;
@@ -27,13 +27,13 @@
     display: flex;
     padding: 10px;
 }
-.table-of-contents-6{
+.table-of-contents-7{
     border: 1px solid #ccc; /* Định dạng khung */
     padding: 30px; /* Khoảng cách giữa nội dung và khung */
     margin-bottom: 20px; /* Khoảng cách giữa các khung */
     background-color: rgba(217, 217, 217, 0.35);
-    width: 790px;
-    height: 270px;
+    width: 900px;
+    height: 300px;
     margin-right: 30px;
 }
 .table-of-contents-head{
@@ -45,13 +45,10 @@
     border-left:3px solid #661f1f;
     margin-left: -10px;
 }
-.desciption-blog-{
+.desciption-blog{
     justify-content: center;
     align-items: center;
 }
-.bipolar-img{
-    height:590px;
-}
-.bipolar-blog-list{
+.BDD-blog-list{
     margin-bottom: 30px;
 }
