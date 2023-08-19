@@ -1,8 +1,9 @@
 import React from "react";
 import { Link } from 'react-router-dom';
+import './genZ-&-peer-pressure.css';
 const PeerPressure =()=>{
     return(
-        <div className="blog-container-anxiety">
+        <div className="blog-container-genZ">
             <div className="Back-button">
                 <box-icon name='chevron-left'></box-icon>
                 <Link to="/blog" className="back-link">Back to Blog</Link>
@@ -10,25 +11,36 @@ const PeerPressure =()=>{
             <div className="title-blog">
                 <p className="conditions-a-z">CONDITIONS A-Z</p>
                 <p className="title-blog-head">
-                    <b>What Is Antisocial Personality Disorder (ASPD)?</b>
+                    <b>GenZ & Peer Pressure</b>
                 </p>
-                <div className="define-para">
-                    <p><b>Antisocial personality disorder (ASPD)</b> is a condition characterized by a lack of empathy and regard for other people.</p>
-                </div>
-                <div className="table-container">
-                    <div className="table-of-contents-3">
-                        <b className="table-of-contents-head">Table of contents</b>
-                        <ul className="table-of-contents-list">
-                            <li className="table-items">Symptoms</li>
-                            <li className="table-items">Diagnosis</li>
-                            <li className="table-items">Causes</li>
-                            <li className="table-items">Treatments</li>
-                            <li className="table-items">Coping</li>
-                        </ul>
+            </div>
+            <div className="genZ-content">
+                <div className="genZ-content-list">
+                    <img src="../src/img/image 59.png"></img>
+                    <div className="genZ-para">
+                        <p>May 20, 2023 </p>
+                        <p className="genZ-para-head">What Is Overthinking, and How Do I Stop Overthinking Everything?</p>
                     </div>
-                    <div className="description-blog">
-                        <p>People with antisocial personality disorder have little or no regard for right or wrong. They antagonize and often act insensitively or in an unfeeling manner. Individuals with this disorder may lie, engage in aggressive or violent behavior, and participate in criminal activity.</p>
-                        <p>Psychopathy is associated with antisocial personality disorder. However, research has shown that not every person with ASPD is a psychopath. Approximately one-third of people with antisocial personality disorder meet the criteria for psychopathy.</p>
+                </div>
+                <div className="genZ-content-list">
+                    <img src="../src/img/image 60.png"></img>
+                    <div className="genZ-para">
+                        <p>May 20, 2023 </p>
+                        <p className="genZ-para-head">How to Handle Peer Pressure ?</p>
+                    </div>
+                </div>
+                <div className="genZ-content-list">
+                    <img src="../src/img/image 68.png"></img>
+                    <div>
+                        <p>May 20, 2023</p>
+                        <p className="genZ-para-head">How to Handle Peer Pressure ?</p>
+                    </div>
+                </div>
+                <div className="genZ-content-list">
+                    <img src="../src/img/image 65.png"></img>
+                    <div>
+                        <p>May 20, 2023</p>
+                        <p className="genZ-para-head">What Are the Pros and Cons of Video Games ? How we can stop it ?</p>
                     </div>
                 </div>
             </div>

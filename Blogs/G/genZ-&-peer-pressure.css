@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
-.blog-container-delayed-sleep{
+@import url('https://fonts.googleapis.com/css2?family=Libre Bodoni:wght@400&display=swap');
+.blog-container-genZ{
     background:fixed;
     background-color: #EADEC8;
     background-size: cover;
@@ -14,40 +15,23 @@
 .Back-button{
     display: flex;
 }
-.define-para{
+.genZ-content-list{
     border: 1px solid #ccc; /* Định dạng khung */
     padding: 20px; /* Khoảng cách giữa nội dung và khung */
     margin-bottom: 20px; /* Khoảng cách giữa các khung */
-    background-color: rgba(217, 217, 217, 0.35);
+    background-color: #f4eee5;
     border-left: 3px solid #661f1f; /* Tạo viền bên trái */
     border-right: 3px solid #661f1f; /* Tạo viền bên trái */
     font-family: 'Bai Jamjuree';
-}
-.table-container{
     display: flex;
-    padding: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
 }
-.table-of-contents-13{
-    border: 1px solid #ccc; /* Định dạng khung */
-    padding: 30px; /* Khoảng cách giữa nội dung và khung */
-    margin-bottom: 20px; /* Khoảng cách giữa các khung */
-    background-color: rgba(217, 217, 217, 0.35);
-    height: 250px;
-    margin-right: 30px;
+.genZ-para-head{
+    font-family: 'Libre Bodoni';
+    font-size: 40px;
 }
-.table-of-contents-head{
-    font-size: 24px;
-    margin: 0;
-}
-.table-of-contents-list{
-    list-style: none;
-    border-left:3px solid #661f1f;
-    margin-left: -10px;
-}
-.desciption-blog{
-    justify-content: center;
-    align-items: center;
-}
-.delayed-sleep-blog-list{
-    margin-bottom: 30px;
+.genZ-para{
+    margin: 20px;
+    padding: 20px;
 }

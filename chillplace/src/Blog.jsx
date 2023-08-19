@@ -72,9 +72,6 @@ const Blog = () =>{
                 <li className="blog-li">
                     <Link to="/blog/gender-dysphoria" className="blog-li linking">Gender Dysphoria</Link>
                 </li>
-                <li className="blog-li">
-                    <Link to="/blog/grief-loss" className="blog-li linking">Grief & Loss</Link>
-                </li>
             </ul>
             <ul>
                 <h className="blog-head">I</h>

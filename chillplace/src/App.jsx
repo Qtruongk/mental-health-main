@@ -24,7 +24,6 @@ import DelayedSleepSyndrome from '../../Blogs/D/delayed-sleep-phase-syndrome';
 import EatingDisorder from '../../Blogs/E/eating-disorders';
 import PeerPressure from '../../Blogs/G/genZ-&-peer-pressure';
 import GenderDysphoria from '../../Blogs/G/gender-dysphoria';
-import Griefloss from '../../Blogs/G/grief-loss';
 import Intellectual from '../../Blogs/I/intellactual-disability';
 import Loneliness from '../../Blogs/L/loneliness';
 import MixedPersonality from '../../Blogs/M/mixed-personality-disorder';
@@ -71,7 +70,6 @@ function App() {
         <Route path="/blog/eating-disorders" element={<EatingDisorder />} />
         <Route path="/blog/genZ-&-peer-pressure" element={<PeerPressure />} />
         <Route path="/blog/gender-dysphoria" element={<GenderDysphoria />} />
-        <Route path="/blog/grief-loss" element={<Griefloss />} />
         <Route path="/blog/intellectual-disability" element={<Intellectual />} />
         <Route path="/blog/loneliness" element={<Loneliness />} />
         <Route path="/blog/mixed-personality-disorder" element={<MixedPersonality />} />
