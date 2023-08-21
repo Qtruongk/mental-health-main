@@ -8,7 +8,7 @@ const Blog = () =>{
             <ul>
                 <h className="blog-head">A</h>
                 <li className="blog-li">
-                    <Link to="/blog/addiction" className="blog-li linking">Addiction</Link>
+                    <Link to="/blog/addiction" className="blog-li linking ">Addiction</Link>
                 </li>
                 <li className="blog-li">
                     <Link to="/blog/adhd-childhood" className="blog-li linking">ADHD,Childhood</Link>

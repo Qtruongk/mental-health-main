@@ -17,7 +17,7 @@ const Intellectual =()=>{
                     <p><b>An intellectual disability</b> is a neurodevelopmental condition that develops in childhood. It affects your capacity to learn and retain new information, and it also affects everyday behavior such as social skills and hygiene routines. People with this condition experience significant limitations with intellectual functioning and developing adaptive skills like social and life skills.</p>
                 </div>
                 <div className="table-container">
-                    <div className="table-of-contents-3">
+                    <div className="table-of-contents-15">
                         <b className="table-of-contents-head">Table of contents</b>
                         <ul className="table-of-contents-list">
                             <li className="table-items">Types</li>
